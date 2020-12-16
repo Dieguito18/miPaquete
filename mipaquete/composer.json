@@ -1,0 +1,15 @@
+{
+    "name": "diego/mipaquete",
+    "description": "Mi paquete creado por Diego Fernandez",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "diego.fernandez",
+            "email": "diegofdezglez99@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/passport": "9.x-dev"
+    },
+    "minimum-stability": "dev"
+}
